@@ -1,0 +1,9 @@
+{
+  "name": "MoreAdditionalSuits",
+  "version_number": "1.0.2",
+  "website_url": "https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/",
+  "description": "A modification of AdditionalSuits which adds 4 additional suits on top of the 8 from the original mod, filling the suit rack completely. Also tweaked a couple colors and cleaned up the texture work a bit.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
