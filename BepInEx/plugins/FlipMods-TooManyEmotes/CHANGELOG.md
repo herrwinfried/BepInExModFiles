@@ -121,3 +121,7 @@ The RPS emote played is random. (I will need to tweak the hands a bit, though)
 # 1.5.9
 + Fixed non-host clients in some cases showing that they have every emote unlocked when they don't, but it won't let them use them. They should sync correctly again with the host.
 + Reverted some settings to fix some rendering bugs.
+# 1.5.10
++ Fixed issue where clients lock up in a dark shadow screen. (not sure about every instance)
++ Fixed issues in some cases where clients don't sync emotes with host properly when the host has all emotes unlocked at start.<br>
+(hopefully fixed the main issues from the previous patch)

@@ -38,7 +38,7 @@
     minor: 7
     patch: 2
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
 - manifestVersion: 1
   name: BatTeam-LethalFashion
   authorName: BatTeam
@@ -59,7 +59,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\BatTeam-LethalFashion\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\BatTeam-LethalFashion\icon.png
 - manifestVersion: 1
   name: x753-More_Suits
   authorName: x753
@@ -81,7 +81,7 @@
     minor: 4
     patch: 1
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\x753-More_Suits\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\x753-More_Suits\icon.png
 - manifestVersion: 1
   name: Verity-TooManySuits
   authorName: Verity
@@ -103,7 +103,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\Verity-TooManySuits\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Verity-TooManySuits\icon.png
 - manifestVersion: 1
   name: FlipMods-TooManyEmotes
   authorName: FlipMods
@@ -123,9 +123,9 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 9
+    patch: 10
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
 - manifestVersion: 1
   name: RugbugRedfern-Skinwalkers
   authorName: RugbugRedfern
@@ -146,7 +146,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
 - manifestVersion: 1
   name: Mont-LetMeJoin
   authorName: Mont
@@ -167,7 +167,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\Mont-LetMeJoin\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Mont-LetMeJoin\icon.png
 - manifestVersion: 1
   name: Sligili-More_Emotes
   authorName: Sligili
@@ -188,7 +188,7 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\Sligili-More_Emotes\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Sligili-More_Emotes\icon.png
 - manifestVersion: 1
   name: ChooMcoo-MoreAdditionalSuits
   authorName: ChooMcoo
@@ -211,7 +211,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\ChooMcoo-MoreAdditionalSuits\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\ChooMcoo-MoreAdditionalSuits\icon.png
 - manifestVersion: 1
   name: PopleZoo-BetterItemScan
   authorName: PopleZoo
@@ -233,7 +233,7 @@
     minor: 1
     patch: 7
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\PopleZoo-BetterItemScan\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\PopleZoo-BetterItemScan\icon.png
 - manifestVersion: 1
   name: FlipMods-BetterStamina
   authorName: FlipMods
@@ -255,7 +255,7 @@
     minor: 3
     patch: 2
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\FlipMods-BetterStamina\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\FlipMods-BetterStamina\icon.png
 - manifestVersion: 1
   name: FlipMods-HotbarPlus
   authorName: FlipMods
@@ -275,9 +275,9 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 4
+    patch: 7
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\FlipMods-HotbarPlus\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\FlipMods-HotbarPlus\icon.png
 - manifestVersion: 1
   name: x753-Mimics
   authorName: x753
@@ -299,7 +299,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\x753-Mimics\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\x753-Mimics\icon.png
 - manifestVersion: 1
   name: Evaisa-HookGenPatcher
   authorName: Evaisa
@@ -320,7 +320,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\Evaisa-HookGenPatcher\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Evaisa-HookGenPatcher\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalLib
   authorName: Evaisa
@@ -339,10 +339,10 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 9
-    patch: 0
+    minor: 10
+    patch: 1
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\Evaisa-LethalLib\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Evaisa-LethalLib\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalThings
   authorName: Evaisa
@@ -366,7 +366,7 @@
     minor: 8
     patch: 8
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\Evaisa-LethalThings\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Evaisa-LethalThings\icon.png
 - manifestVersion: 1
   name: herrwinfried-Battery
   authorName: herrwinfried
@@ -390,28 +390,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\herrwinfried-Battery\icon.png
-- manifestVersion: 1
-  name: 2018-LC_API
-  authorName: "2018"
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/2018/LC_API/
-  displayName: LC_API
-  description: Multipurpose modding API for Lethal Company
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 3
-    minor: 2
-    patch: 2
-  enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\2018-LC_API\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\herrwinfried-Battery\icon.png
 - manifestVersion: 1
   name: HolographicWings-LethalExpansion
   authorName: HolographicWings
@@ -430,9 +409,9 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 9
+    patch: 11
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
 - manifestVersion: 1
   name: sfDesat-Orion
   authorName: sfDesat
@@ -454,7 +433,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany30-12-2023\BepInEx\plugins\sfDesat-Orion\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\sfDesat-Orion\icon.png
 - manifestVersion: 1
   name: HerrWinfried-Teleporter
   authorName: HerrWinfried
@@ -474,4 +453,4 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: ""
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\HerrWinfried-Teleporter\icon.png

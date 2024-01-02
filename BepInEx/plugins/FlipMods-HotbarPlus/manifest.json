@@ -1,6 +1,6 @@
 {
     "name": "HotbarPlus",
-    "version_number": "1.4.4",
+    "version_number": "1.4.7",
     "website_url": "",
     "description": "Many quality of life and configurable hotbar settings and tweaks, including setting custom hotbar sizes that will sync with the host.",
     "dependencies": [
