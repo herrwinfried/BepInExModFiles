@@ -101,9 +101,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 4
+    patch: 5
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Verity-TooManySuits\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\Verity-TooManySuits\1.0.5\icon.png
 - manifestVersion: 1
   name: FlipMods-TooManyEmotes
   authorName: FlipMods
@@ -122,8 +122,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 5
-    patch: 10
+    minor: 6
+    patch: 3
   enabled: true
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
 - manifestVersion: 1

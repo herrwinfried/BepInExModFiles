@@ -56,6 +56,8 @@ Various dances are also included! You can see a preview of them in the gif down 
 - To help prevent weird camera movements for certain emotes, and to help lower motion sickness, you will perform custom emotes in third-person.
 - While emoting, you can freely move your camera without turning your character, or interrupting your emote.
 - Upon moving, or canceling the emote, you will revert back to your normal view.
+- (New in 1.6.0) While emoting, you can now rotate your character while holding the Alt key. This key can be changed in the config.
+- (New in 1.6.0) You can now scroll to zoom in and out while emoting. The min and max distance is clamped at 1.5 and 5.
 <br><br>
 
 ## Everyone is Synced
@@ -66,12 +68,20 @@ Various dances are also included! You can see a preview of them in the gif down 
 - When performing a custom emote, all players will see the same emote.
 <br><br>
 
-## Emote Loadouts (New in 1.5.4)
+## Emote Loadouts
 
 - Emote loadouts are now included to the left of the radial menu.
 - Currently, there are two loadouts. "Favorites" and "All".
 - Favoriting emotes will persist throughout multiple sessions, or upon closing/relaunching the game.<br>
 Favorited emotes will only be available if they have been unlocked in your session.
+<br><br>
+
+## Sync Emotes with other Players (new in 1.6.0)
+
+- When other players perform an emote that loops, there will be a prompt when looking at them to perform and sync with their emote.
+- Syncing with another player's emote will perform the same emote, and match their time in the animation.
+- After syncing with a player, you can then rotate your character to look elsewhere by holding the Alt key.<br>
+(You can rotate your character regardless of if you synced with a player's emote or not)
 <br><br>
 
 ## Saved Progression
@@ -89,27 +99,18 @@ Favorited emotes will only be available if they have been unlocked in your sessi
 This will allow all clients to use emotes regardless of the mods the host is running.
 <br><br>
 
-## Current Configurable Settings
-
-- All server related config settings will be synced between all clients.
-- Starting the game with all emotes unlocked. This will opt you out of using the emote store.
-- Emote price can be adjusted.
-- Number of emotes per rotation can be adjusted.
-- Number of free emote coupons per game can be adjusted.
-<br><br>
-
 ## Future Plans
 
 - Adding more emotes! More emotes are already on the way!
 - Continue polishing existing emotes that need love!
 - Adding random emote sales. This will be similar to the random sales for items in the store.
-- Adding a "mystery" emote to each rotation. You won't know what it is until you purchase it!
 <br><br>
 
 ## Mod Compatibility
 
 - Compatible with More_Emotes!
-- Compatible with MoreCompany Cosmetics!
+- Compatible with MirrorDecor!
+- Compatible with MoreCompany Cosmetics! (maybe)
 - Third person camera mods may or may not play nice. Who knows?
 <br><br>
 
