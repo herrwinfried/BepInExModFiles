@@ -75,6 +75,12 @@ Then send the "LogOutput.log" file from the "Lethal Company\BepInEx\" folder in 
 - Kicking a client after timeout is not working.
 
 ## Changes :
+- 1.3.13
+	- Fixed tiny issue with compatibility patches.
+- 1.3.12
+	- Added a compatibility patch for MoreMoneyStart.
+	- Removed Christmas village and moved it to an [independent mod](https://thunderstore.io/c/lethal-company/p/HolographicWings/ChristmasVillage_Legacy).
+	- Added a setting to roll back to Synchronous custom moon loading.
 - 1.3.11
 	- Fixed multiple firexists wasn't working since the moon loading became asynchronous.
 - 1.3.10
@@ -215,16 +221,6 @@ Then send the "LogOutput.log" file from the "Lethal Company\BepInEx\" folder in 
 		- https://assetstore.unity.com/packages/3d/props/tools/survival-game-tools-139872
 	- Wateridge Moon :
 		- https://assetstore.unity.com/packages/3d/environments/old-sea-port-environment-36897
-	- Christmas Village Moon :
-		- Pixabay
-		- https://youtu.be/n8xGzkizA34
-		- https://assetstore.unity.com/packages/3d/environments/landscapes/flatpoly-winter-village-51544
-		- https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-style-free-rocks-and-plants-145133
-		- https://assetstore.unity.com/packages/3d/environments/low-poly-woods-lifestyle-65306
-		- https://assetstore.unity.com/packages/3d/props/pbr-christmas-gifts-237877
-		- https://assetstore.unity.com/packages/3d/props/free-christmas-assets-low-poly-13102
-		- https://assetstore.unity.com/packages/3d/props/food/christmas-cookies-breakable-105913
-		- https://assetstore.unity.com/packages/3d/props/free-christmas-presents-low-poly-24356
 
 ## More screenshots :
 ![Scraps2](https://raw.githubusercontent.com/HolographicWings/LethalExpansion/main/Screenshots/Scraps2.png "Scraps2")

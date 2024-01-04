@@ -1,10 +1,12 @@
+- 1.1.1
+  - New link to tutorials
+
 - 1.1.0
   - Changed ship position
   - Terrain changes
   - Added some props
   - Giant spawnrate increased
   - Enemies can spawn earlier
-  - Adde a link to Tutorials in description
 
 - 1.0.3
   - Updated terminal description

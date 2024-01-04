@@ -1,3 +1,5 @@
+# 1.6.4
++ Fixed "pose" emotes ending early.
 # 1.6.3
 + Minor bug fixes.
 # 1.6.2
