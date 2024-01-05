@@ -409,9 +409,9 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 13
+    patch: 14
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\HolographicWings-LethalExpansion\1.3.14\icon.png
 - manifestVersion: 1
   name: sfDesat-Orion
   authorName: sfDesat
@@ -475,4 +475,4 @@
     minor: 3
     patch: 12
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\HolographicWings-ChristmasVillage_Legacy\1.3.12\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\HolographicWings-ChristmasVillage_Legacy\icon.png
