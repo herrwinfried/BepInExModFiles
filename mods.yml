@@ -528,27 +528,6 @@
   enabled: true
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\SylviBlossom-BoomboxYT\icon.png
 - manifestVersion: 1
-  name: sunnobunno-YippeeMod
-  authorName: sunnobunno
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/
-  displayName: YippeeMod
-  description: Changes the chitter SFX of the Hoarding Bug to the yippee-tbh sound
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 3
-  enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\sunnobunno-YippeeMod\icon.png
-- manifestVersion: 1
   name: fr3d-QuotaSettings
   authorName: fr3d
   websiteUrl: https://thunderstore.io/c/lethal-company/p/fr3d/QuotaSettings/
