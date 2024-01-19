@@ -36,15 +36,15 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 2
+    patch: 4
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
 - manifestVersion: 1
   name: BatTeam-LethalFashion
   authorName: BatTeam
   websiteUrl: https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/
   displayName: LethalFashion
-  description: Unlocks the green suit, hazard suit, and pajama suit by default.
+  description: Unlocks all of the base game suits immediately for free.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -57,9 +57,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 4
+    patch: 6
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\BatTeam-LethalFashion\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\BatTeam-LethalFashion\icon.png
 - manifestVersion: 1
   name: x753-More_Suits
   authorName: x753
@@ -81,7 +81,7 @@
     minor: 4
     patch: 1
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\x753-More_Suits\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\x753-More_Suits\icon.png
 - manifestVersion: 1
   name: Verity-TooManySuits
   authorName: Verity
@@ -103,14 +103,15 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Verity-TooManySuits\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Verity-TooManySuits\icon.png
 - manifestVersion: 1
   name: FlipMods-TooManyEmotes
   authorName: FlipMods
   websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/
   displayName: TooManyEmotes
   description: Adds over 100 new emotes! Emote wheel included! Also implements a
-    system for purchasing them on the store, and much more!
+    system for purchasing them on the store, masked enemies can emote, and much
+    more!
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -122,10 +123,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 6
-    patch: 4
+    minor: 8
+    patch: 0
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
 - manifestVersion: 1
   name: RugbugRedfern-Skinwalkers
   authorName: RugbugRedfern
@@ -142,11 +143,11 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 2
+    major: 4
     minor: 0
     patch: 1
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
 - manifestVersion: 1
   name: Mont-LetMeJoin
   authorName: Mont
@@ -167,13 +168,13 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Mont-LetMeJoin\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Mont-LetMeJoin\icon.png
 - manifestVersion: 1
-  name: Sligili-More_Emotes
-  authorName: Sligili
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
-  displayName: More_Emotes
-  description: "[v45/v40] Adds more emotes!!"
+  name: Ozone-Runtime_Netcode_Patcher
+  authorName: Ozone
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/
+  displayName: Runtime_Netcode_Patcher
+  description: Patches Netcode RPC methods during runtime utilizing Harmony
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -184,11 +185,33 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
+    major: 0
     minor: 2
-    patch: 2
+    patch: 5
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Sligili-More_Emotes\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Ozone-Runtime_Netcode_Patcher\icon.png
+- manifestVersion: 1
+  name: Sligili-More_Emotes
+  authorName: Sligili
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
+  displayName: More_Emotes
+  description: "[v49/v45] Adds even more emotes"
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Ozone-Runtime_Netcode_Patcher-0.2.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 3
+  enabled: true
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Sligili-More_Emotes\icon.png
 - manifestVersion: 1
   name: ChooMcoo-MoreAdditionalSuits
   authorName: ChooMcoo
@@ -211,7 +234,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\ChooMcoo-MoreAdditionalSuits\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\ChooMcoo-MoreAdditionalSuits\icon.png
 - manifestVersion: 1
   name: PopleZoo-BetterItemScan
   authorName: PopleZoo
@@ -229,11 +252,11 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 2
-    minor: 1
-    patch: 8
+    major: 3
+    minor: 0
+    patch: 0
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\PopleZoo-BetterItemScan\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\PopleZoo-BetterItemScan\icon.png
 - manifestVersion: 1
   name: FlipMods-BetterStamina
   authorName: FlipMods
@@ -255,7 +278,7 @@
     minor: 3
     patch: 2
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\FlipMods-BetterStamina\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\FlipMods-BetterStamina\icon.png
 - manifestVersion: 1
   name: FlipMods-HotbarPlus
   authorName: FlipMods
@@ -274,10 +297,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
+    minor: 5
     patch: 7
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\FlipMods-HotbarPlus\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\FlipMods-HotbarPlus\icon.png
 - manifestVersion: 1
   name: x753-Mimics
   authorName: x753
@@ -297,9 +320,9 @@
   versionNumber:
     major: 2
     minor: 3
-    patch: 0
+    patch: 2
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\x753-Mimics\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\x753-Mimics\icon.png
 - manifestVersion: 1
   name: Evaisa-HookGenPatcher
   authorName: Evaisa
@@ -320,13 +343,13 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Evaisa-HookGenPatcher\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Evaisa-HookGenPatcher\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalLib
   authorName: Evaisa
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
   displayName: LethalLib
-  description: My modding tools for Lethal Company
+  description: Personal modding tools for Lethal Company
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -339,16 +362,16 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 10
-    patch: 1
+    minor: 13
+    patch: 2
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Evaisa-LethalLib\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Evaisa-LethalLib\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalThings
   authorName: Evaisa
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/
   displayName: LethalThings
-  description: Adds 9 scrap, 6 store items, 1 enemy, 4 decor, 1 map hazard, and 1
+  description: Adds 11 scrap, 6 store items, 1 enemy, 4 decor, 1 map hazard, and 1
     game mechanic.
   gameVersion: "0"
   networkMode: both
@@ -358,15 +381,15 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-HookGenPatcher-0.0.5
-    - Evaisa-LethalLib-0.7.0
+    - Evaisa-LethalLib-0.11.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 8
-    patch: 8
+    minor: 9
+    patch: 4
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\Evaisa-LethalThings\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Evaisa-LethalThings\icon.png
 - manifestVersion: 1
   name: herrwinfried-Battery
   authorName: herrwinfried
@@ -380,9 +403,9 @@
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.2113
-    - Evaisa-HookGenPatcher-0.0.5
     - Evaisa-LethalThings-0.8.8
     - Evaisa-LethalLib-0.9.0
+    - Evaisa-HookGenPatcher-0.0.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
@@ -390,50 +413,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\herrwinfried-Battery\icon.png
-- manifestVersion: 1
-  name: HolographicWings-LethalExpansion
-  authorName: HolographicWings
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/
-  displayName: LethalExpansion
-  description: Large game expansion with SDK support and a plenty of features.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 3
-    patch: 14
-  enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\HolographicWings-LethalExpansion\1.3.14\icon.png
-- manifestVersion: 1
-  name: sfDesat-Orion
-  authorName: sfDesat
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/
-  displayName: Orion
-  description: A new moon. [1.0 Release]
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.12
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 1
-    patch: 1
-  enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\sfDesat-Orion\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\herrwinfried-Battery\icon.png
 - manifestVersion: 1
   name: HerrWinfried-Teleporter
   authorName: HerrWinfried
@@ -453,13 +433,38 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\HerrWinfried-Teleporter\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\HerrWinfried-Teleporter\icon.png
 - manifestVersion: 1
-  name: HolographicWings-ChristmasVillage_Legacy
-  authorName: HolographicWings
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/HolographicWings/ChristmasVillage_Legacy/
-  displayName: ChristmasVillage_Legacy
-  description: A backup of ChristmasVillage event Moon from Lethal Expansion mod.
+  name: IAmBatby-LethalLevelLoader
+  authorName: IAmBatby
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/
+  displayName: LethalLevelLoader
+  description: A Custom API to support the manual and dynamic integration of
+    custom levels and dungeons in Lethal Company.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - Evaisa-LethalLib-0.13.2
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 7
+  enabled: true
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\IAmBatby-LethalLevelLoader\icon.png
+- manifestVersion: 1
+  name: scoopy-Scoopys_Variety_Mod
+  authorName: scoopy
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/
+  displayName: Scoopys_Variety_Mod
+  description: Adds a new dungeon-themed interior, and some scrap items. This mod
+    aims to add some variety to the base game of lethal company through new
+    content.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -467,12 +472,122 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.12
+    - Evaisa-LethalLib-0.11.0
+    - IAmBatby-LethalLevelLoader-1.0.6
+    - Evaisa-HookGenPatcher-0.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 6
+    patch: 5
+  enabled: true
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\scoopy-Scoopys_Variety_Mod\icon.png
+- manifestVersion: 1
+  name: Rune580-LethalCompany_InputUtils
+  authorName: Rune580
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
+  displayName: LethalCompany_InputUtils
+  description: Utilities for creating InputActions and providing an (opinionated)
+    improved UI.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 5
+    patch: 5
+  enabled: true
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
+- manifestVersion: 1
+  name: SylviBlossom-BoomboxYT
+  authorName: SylviBlossom
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/SylviBlossom/BoomboxYT/
+  displayName: BoomboxYT
+  description: Simple mod to play YouTube links on the Boombox.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Rune580-LethalCompany_InputUtils-0.5.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 3
-    patch: 12
+    minor: 1
+    patch: 0
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_me\BepInEx\plugins\HolographicWings-ChristmasVillage_Legacy\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\SylviBlossom-BoomboxYT\icon.png
+- manifestVersion: 1
+  name: sunnobunno-YippeeMod
+  authorName: sunnobunno
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/
+  displayName: YippeeMod
+  description: Changes the chitter SFX of the Hoarding Bug to the yippee-tbh sound
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 3
+  enabled: true
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\sunnobunno-YippeeMod\icon.png
+- manifestVersion: 1
+  name: fr3d-QuotaSettings
+  authorName: fr3d
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/fr3d/QuotaSettings/
+  displayName: QuotaSettings
+  description: Set a few variables relating to the quota.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\fr3d-QuotaSettings\icon.png
+- manifestVersion: 1
+  name: Drakorle-MoreItems
+  authorName: Drakorle
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/
+  displayName: MoreItems
+  description: Changes the max amount of items that the game saves from 45 to 999.
+    Requires BepInEx.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\Drakorle-MoreItems\1.0.2\icon.png

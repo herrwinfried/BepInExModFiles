@@ -1,3 +1,21 @@
+# 1.5.7
++ Config sync should now regenerate correctly every time you load into a game, rather than only the first time.
+# 1.5.6
++ Forgot to add to the previous changelog that quick item swapping now won't work while typing.
+# 1.5.5
++ Fixed issue with quick drop not working again. (this feature will haunt me, I swear)
+# 1.5.4
++ Added checks if currently dropping an object on the server before allowing the quick item swapping hotkeys.
+# 1.5.3
++ Fixed quick drop delay bug that was making items disappear on non-host clients when they dropped items. (sometimes) Sorry for the recent de-sync issues!
+# 1.5.2
++ Re-enabling quick item drop. Still may cause de-sync if the host doesn't have the mod.
+# 1.5.1
++ Disabling the numeric hotbar shortcuts in the config should now work correctly, even with InputUtils enabled.
+# 1.5.0
++ Added support for InputUtils, as a soft dependency. If this mod is enabled, you will be able to access any relevant hotkeys within the game's keybind menu.
+# 1.4.8
++ Fixed issue with custom keybinds for the default emotes not working.
 # 1.4.7
 + Improved stability and fixed some potential issues of desync.
 # 1.4.6

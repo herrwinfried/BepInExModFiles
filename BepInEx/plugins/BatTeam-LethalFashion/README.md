@@ -3,15 +3,18 @@
 ### Wanna find scrap, but do it in **style**? 
 #### Have all outfits for free instead of wasting your money on them!
 
-A very simple mod that shouldn't interfere with other mods or break them.
+A very simple mod that shouldn't interfere with other mods or break them.  
 
-The following suits will be unlocked and available immediately:
-1. Green Suit
-2. Hazard Suit
-3. Pajama Suit
+The following suits will be unlocked and available immediately:  
+1. Green Suit  
+2. Hazard Suit  
+3. Pajama Suit  
+4. Purple Suit  
 
-ONLY works if you are the host.
-Clients (non-hosts) do NOT need this mod at all, it syncs via the host.
+*If more suits get added to the game I will update the code accordingly to unlock them too.*  
+
+#### ONLY works if you are the host.  
+#### Clients (non-hosts) do NOT need this mod at all, it syncs via the host.  
 
 ## Credits
 Please check out:  
@@ -27,7 +30,14 @@ I've heard issues with people installing with R2Modman - I don't use this so I'm
 
 ## Changelog
 
-### ***1.0.4**
+### **1.0.6**  
+- Added purple suit (ID 24)  
+
+### **1.0.5**  
+- Updated to work on v47 by changing the way the plugin checks who is the host
+- Minor bug: Clients may see the suits synced in a different order than the host. Investigating.
+
+### **1.0.4**  
 - Works with newest update out of the box as far as I can tell, nothing should break. If it breaks, please check the LC Modding Discord and leave a message in the Lethal Fashion thread and I'll look into it.
 - Removed debug code so it spams the console logs less
 - Added Manual installation notes to this README on where the DLL goes

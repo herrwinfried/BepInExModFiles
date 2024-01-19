@@ -1,3 +1,72 @@
+# 1.8.0
++ There are now over 200 emotes!
++ Added a config setting to allow moving while emoting. This will sync with all clients. Rotating while emoting by holding a hotkey will be disabled when this is enabled.
++ Accidentally set the audio listening source to the emote camera when you stopped emoting. Should be fixed now.
++ Refixed mirror decor. Oops!
+# 1.7.18
++ Additional tweaks to maybe fix the emotes canceling for players at times.
+# 1.7.17
++ Fixed compat with certain terminal mods, such as Neofetch.
++ Fixed echoing in third person emote camera.
++ Made some small changes to maybe prevent issue with player's animations getting canceled when another player cancels their. Probably didn't fix it.
+# 1.7.16
++ Fixed compat with MoreCompany.
++ Fixed bug where emote credits were being depleted for everyone when one player purchased an emote with ShareEverything disabled.
++ Fixed bug with emotes/emote credits not being loaded correctly for non-host clients.
+# 1.7.15
++ Re-added hook method ModelReplacementAPI used to grab currently playing emotes. (I forgot it was referencing it)
+# 1.7.14
++ Tweaked some code to help a bit more with compat with mods that might edit the player's animator controller.
+# 1.7.13
++ Fixed issue with "start" emote clips not transition to the "loop" emote clip.
++ Fixed issue with certain emotes not knowing when they ended.
+# 1.7.12
++ Added checks in case the player's animator controller is not an AnimatorOverrideController.
++ Fixed issue with not being able to scroll in the emote menu.
+# 1.7.11
++ Restructure and reorganization of some code.
++ Fixed issue when the ShareEverything setting in the config is disabled and a player purchases an emote, the emote credits shouldn't be deducted from each player anymore.
++ Some UI tweaks.
++ Possible fix for the issue when players cancel an emote, other players emotes "break".
+# 1.7.10
++ Fixed issue with dress girl showing up in the third person emote camera when she's not supposed to be visible.
++ Attempted fix for lag caused by code when MoreCompany is not enabled. (Thanks legoandmars!)
++ Rotating while emote can now be set to toggle in the config.
++ Audio is now based off of the third person emote camera while emoting.
+# 1.7.9
++ Added more compat checks for More_Emotes. You should now be unable to emote while performing an emote from More_Emotes. (maybe even from other mods that add emotes)
++ The third person emote camera should now reset and swap back to the main camera if you die.
++ Attempted to fix some issues with translation mods causing issues when checking for certain values in the terminal. (hopefully fixed)
+# 1.7.8
++ Re-added Masked Enemies emoting for non-host clients. Will continue testing and tweaking if needed.
+# 1.7.7
++ Disabling Masked Enemy emotes for non-host client until I fix the bug with them.
+# 1.7.6
++ Fixed issue with some input bindings.
+# 1.7.5
++ Edited config descriptions related to keybinds.
+# 1.7.4
++ Added support for InputUtils, as a soft dependency. If this mod is enabled, you will be able to access any relevant hotkeys within the game's keybind menu.
++ Some visual tweaks to the radial menu.
++ Created a bit of the framework for controller support. Will release soon!
+# 1.7.3
++ Fixed issue with some of the new configs not syncing.
++ Removed Herobrine.
+# 1.7.2
++ Fixed errors spamming when looking at a player who is not emoting.
+# 1.7.1
++ Fixed some minor issues.
++ Added compatibility for BetterEmotes.
+# 1.7.0
++ Added a config option to enable/disable sharing emotes. Read about this in the README!
++ Added something special with the Masked Enemies! Read about this in the README!
++ Fixed deformed character rigs after certain animations.
++ Fixed a bug with being able to perform emotes/open the emote menu when in special animations with enemies.
++ Fixed a bug where the default group credits wouldn't update when used to purchase emotes.
++ Fixed a bug when non-host clients purchased emotes, that the emote credit balance wouldn't update.
++ Players joining after a player DC'd while emoting <i>should</i> not have a broken animation rig anymore for other players.
++ Added a few more emotes!
++ Added config option to disable emoting for yourself. If disabled, this mod will not alter the default player's animator/animator controller, and may fix issues with compatibility with certain mods, such as VR mods.
 # 1.6.4
 + Fixed "pose" emotes ending early.
 # 1.6.3
@@ -57,7 +126,7 @@ Favorited emotes will persist across sessions/saves or game launches. However, t
 + Brightened the animation preview a bit.
 + Few other changes.
 # 1.4.9
-+ Applied compatibility patch for BiggerLobby (Thanks <> Bobbie!)
++ Applied compatibility patch for BiggerLobby (Thanks legoandmars!)
 + Publicized most of my classes to help with compatibility.
 + Various minor fixes.
 # 1.4.8

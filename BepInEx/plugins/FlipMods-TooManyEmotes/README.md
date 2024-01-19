@@ -8,9 +8,11 @@ Currently, there are There are currently over 100 emotes, and (likely) more on t
 These include common emotes, such as waving, taunting, crying, etc.<br>
 Various dances are also included! You can see a preview of them in the gif down below!
 <br>
+
+### Now supports InputUtils
+- Any relevant hotkeys for this mod can be managed in the in-game keybind menu.
+- InputUtils is not a dependency, but is recommended!
 <br>
-
-
 
 ## Over 100 Emotes!
 
@@ -21,15 +23,13 @@ Various dances are also included! You can see a preview of them in the gif down 
 
 ![Emotes Preview](https://i.imgur.com/d21cmPX.gif)
 
-
-## Emote Menu
+## Emote Radial Menu
 
 - Emote radial menu is included!
 - By default, you can open the radial menu by pressing the backtick/tilde key. This can be changed in the config.
 - Not shown in the gif below, but you can have multiple pages of emotes now! (1.3.5)
 
-![Radial Menu](https://i.imgur.com/W3CAXmG.gif)
-
+![Radial Menu](https://i.imgur.com/jf6z3NS.gif)
 
 ## Emote Store
 
@@ -68,6 +68,16 @@ Various dances are also included! You can see a preview of them in the gif down 
 - When performing a custom emote, all players will see the same emote.
 <br><br>
 
+## Everyone is not Synced! (optional)
+
+- Sharing everything can be disabled in the config.
+- If disabled, each player will have their own rotation of emotes in the store.
+- Purchasing emotes will only unlock for you.
+- Each player will have their own reserve of emotes credits. The amount of emote credits you earn will NOT be reduced.
+- You will still be able to see other players' emotes, and even sync with them! (if you enabled syncing emotes that are not unlocked in the config)
+- <strong>This feature may currently have bugs, as it changes the organization of unlocked emotes and emote credits, and how the game saves/loads unlocked emotes during the session.</strong><br> If you do run into any bugs, please post the issue(s) on the Lethal Company Modding Discord, or on the Github!
+<br><br>
+
 ## Emote Loadouts
 
 - Emote loadouts are now included to the left of the radial menu.
@@ -76,12 +86,29 @@ Various dances are also included! You can see a preview of them in the gif down 
 Favorited emotes will only be available if they have been unlocked in your session.
 <br><br>
 
-## Sync Emotes with other Players (new in 1.6.0)
+## Sync Emotes with other Players
 
 - When other players perform an emote that loops, there will be a prompt when looking at them to perform and sync with their emote.
 - Syncing with another player's emote will perform the same emote, and match their time in the animation.
 - After syncing with a player, you can then rotate your character to look elsewhere by holding the Alt key.<br>
 (You can rotate your character regardless of if you synced with a player's emote or not)
+<br><br>
+
+## Masked Enemies Emoting - Beta (new in 1.7.0)
+
+### &nbsp;&nbsp;&nbsp;<strong>Trust no one!</strong><br>
+![Masked Enemy Emotes](https://i.imgur.com/FqmLJ64.gif)
+<br>
+- The [MaskedEnemyOverhaul]("https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/") by HomelessGinger plays very nicely with this. You should check it out!
+- Masked Enemies will now be able to perform any emote that the player they're looking at has unlocked.
+- When Masked Enemies stop and stare at the player, they will have a chance to emote after a short delay for a few seconds.
+- Masked Enemies will ALWAYS emote during each player's first encounter with a Masked Enemy. This will happen for each new level.
+- The stop and stare duration has been increased by a bit to ensure that the emotes play at a reasonable duration, and do not end very quickly.<br>
+If you do not want to increase the vanilla stop and stare time, or if this conflicts with other mods, you can disable overriding this duration in the config.
+- You can sync emotes with Masked Enemies!
+- All settings can be edited in the config.
+- <strong>This feature is currently in beta, as I have no had the chance to extensively test this.</strong><br>
+If you run into any bugs, please post this issue in the Lethal Company Modding Discord, or on the Github. Thank you!
 <br><br>
 
 ## Saved Progression
@@ -108,9 +135,10 @@ This will allow all clients to use emotes regardless of the mods the host is run
 
 ## Mod Compatibility
 
+- Supports InputUtils (soft dependency)
 - Compatible with More_Emotes!
 - Compatible with MirrorDecor!
-- Compatible with MoreCompany Cosmetics! (maybe)
+- Compatible with MoreCompany Cosmetics! (maybe not for non-host clients)
 - Third person camera mods may or may not play nice. Who knows?
 <br><br>
 

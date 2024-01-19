@@ -7,9 +7,14 @@
 - The spacing between the hotbar HUD elements is adjustable.
 - The scale of the hotbar HUD elements can be adjusted. Position and spacing will automatically scale, as well.
 - The hotbar HUD fade alpha can be adjusted. Default: 0.13 | Set to 0 for full fade | Set to 1 for no fade.
+<br>
+
+### Now supports InputUtils
+- Any relevant hotkeys for this mod can be managed in the in-game keybind menu.
+- InputUtils is not a dependency, but is recommended!
 <br><br>
 
-## Quality of life
+## Quality of Life
 
 - Inverts the scrolling direction on your hotbar to be like most other games. This can be disabled in the config.
 The base game now has this setting, but it also inverts the terminal scrolling direction, so this setting still may be of use.
@@ -21,8 +26,15 @@ This setting is mainly to prevent overlap between the default emote hotkeys, and
 - Added the option for quick dropping in the config (enabled by default). You can now chain drop items. After dropping an item, you will automatically switch to another item on your hotbar.
 <br><br>
 
-# All Clients are Synced!
+## All Clients are Synced!
 
 - All clients will have their hotbar size synced with the host, regardless of their config. Equality! If the host does not have this mod, this setting will not be used.
 - Clients will have their currently selected hotbar slot synced with each other, even when swapping slots with the numerical hotkeys.
 - Swapping hotbar slots will sync perfectly with any set hotbar size. Clients without this mod are not guaranteed to sync their currently held item all the time.
+<br><br>
+
+## Compatibility
+
+- Should play nicely with <i>most</i> mods.
+- Compatible with the ReservedItemSlot mods!
+- Any features in this mod are not guaranteed to work with AdvancedCompany.
