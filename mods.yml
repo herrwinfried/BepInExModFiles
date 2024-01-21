@@ -36,7 +36,7 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 4
+    patch: 6
   enabled: true
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
 - manifestVersion: 1
@@ -254,7 +254,7 @@
   versionNumber:
     major: 3
     minor: 0
-    patch: 0
+    patch: 1
   enabled: true
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\PopleZoo-BetterItemScan\icon.png
 - manifestVersion: 1
@@ -502,7 +502,7 @@
   versionNumber:
     major: 0
     minor: 5
-    patch: 5
+    patch: 6
   enabled: true
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
 - manifestVersion: 1
@@ -569,4 +569,26 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\Drakorle-MoreItems\1.0.2\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Drakorle-MoreItems\icon.png
+- manifestVersion: 1
+  name: Nips-Brutal_Company_Plus
+  authorName: Nips
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Nips/Brutal_Company_Plus/
+  displayName: Brutal_Company_Plus
+  description: "A customizable hardcore mod that randomizes events ranging between
+    insanity and normal. (Based off Brutal Company By: 2018)"
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 5
+    patch: 1
+  enabled: false
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\Nips-Brutal_Company_Plus\3.5.1\icon.png
