@@ -1,2 +1,2 @@
-BepInEx/boomboxyt/bin/ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
-BepInEx/boomboxyt/bin/ffprobe.exe filter=lfs diff=lfs merge=lfs -text
+BepInEx/plugins/Yoshify-DiscJockey/Downloaders/yt-dlp.exe filter=lfs diff=lfs merge=lfs -text
+BepInEx/plugins/Yoshify-DiscJockey/Downloaders/ffmpeg.exe filter=lfs diff=lfs merge=lfs -text

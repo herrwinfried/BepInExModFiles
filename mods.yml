@@ -484,50 +484,6 @@
   enabled: true
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\scoopy-Scoopys_Variety_Mod\icon.png
 - manifestVersion: 1
-  name: Rune580-LethalCompany_InputUtils
-  authorName: Rune580
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
-  displayName: LethalCompany_InputUtils
-  description: Utilities for creating InputActions and providing an (opinionated)
-    improved UI.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 5
-    patch: 6
-  enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
-- manifestVersion: 1
-  name: SylviBlossom-BoomboxYT
-  authorName: SylviBlossom
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/SylviBlossom/BoomboxYT/
-  displayName: BoomboxYT
-  description: Simple mod to play YouTube links on the Boombox.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Rune580-LethalCompany_InputUtils-0.5.5
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 1
-    patch: 0
-  enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\SylviBlossom-BoomboxYT\icon.png
-- manifestVersion: 1
   name: fr3d-QuotaSettings
   authorName: fr3d
   websiteUrl: https://thunderstore.io/c/lethal-company/p/fr3d/QuotaSettings/
@@ -592,3 +548,48 @@
     patch: 1
   enabled: false
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\Nips-Brutal_Company_Plus\3.5.1\icon.png
+- manifestVersion: 1
+  name: HomelessGinger-MaskedEnemyOverhaul
+  authorName: HomelessGinger
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/
+  displayName: MaskedEnemyOverhaul
+  description: Removes the mask from the mimic enemy, wears a suit of a random
+    player (even modded ones), allows spawning on all moons without needing the
+    mask items, and a zombie apocalypse?
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
+- manifestVersion: 1
+  name: Yoshify-DiscJockey
+  authorName: Yoshify
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Yoshify/DiscJockey/
+  displayName: DiscJockey
+  description: An all-in-one custom Boombox solution - featuring song downloading,
+    custom song loading, realtime audio streams and a fully networked media
+    player UI
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Yoshify-DiscJockey\icon.png

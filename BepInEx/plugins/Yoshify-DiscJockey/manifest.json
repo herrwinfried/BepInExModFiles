@@ -1,0 +1,9 @@
+{
+  "name": "DiscJockey",
+  "version_number": "1.2.1",
+  "namespace": "Yoshify",
+  "FullName": "Yoshify-DiscJockey",
+  "website_url": "https://github.com/Yoshify/DiscJockey",
+  "description": "An all-in-one custom Boombox solution - featuring song downloading, custom song loading, realtime audio streams and a fully networked media player UI",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
