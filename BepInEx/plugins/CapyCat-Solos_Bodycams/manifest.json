@@ -1,0 +1,9 @@
+{
+    "name": "Solos_Bodycams",
+    "version_number": "1.0.5",
+    "website_url": "https://discord.gg/gyz9mrZ4bR",
+    "description": "Replaces the ships internal camera (right monitor) with bodycams that are linked to the radar.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

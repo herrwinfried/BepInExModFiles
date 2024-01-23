@@ -593,3 +593,25 @@
     patch: 1
   enabled: true
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Yoshify-DiscJockey\icon.png
+- manifestVersion: 1
+  name: CapyCat-Solos_Bodycams
+  authorName: CapyCat
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/
+  displayName: Solos_Bodycams
+  description: Replaces the ships internal camera (right monitor) with bodycams
+    that are linked to the radar.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\CapyCat-Solos_Bodycams\1.0.5\icon.png
