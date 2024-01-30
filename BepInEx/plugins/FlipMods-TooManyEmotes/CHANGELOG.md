@@ -1,3 +1,27 @@
+# 1.8.5
++ Reverted one patch from 1.8.4 to fix character rig issue.
+# 1.8.4
++ Fixed case-sensitive issue when typing emotes commands in the terminal.
++ Fixed potential issue with various scripts, or other mods, activating comonents from the animation previewer object. Any components on this object that are not needed should be destroyed properly now.
++ Fixed issue with scrolling pages in the emote menu while an emote is selected and the animation preview freezes up.
++ Rebalanced default emote credits gained multiplier in the config.
++ Favorited emotes that have been temporarily removed should not be removed from favorites to prevent spam in the console.
++ Fixed issue when holding a movement key while starting certain emotes, where you would cancel the emote, but remain in third person.
++ You now cannot emote while a centipede is on your head. If a centipede latches onto your head while emoting, the emote will be canceled.
++ Fixed some feet animations for some emotes. Will be fixing more!
++ Readded the "It's you!" (spiderman pointing) emote. It's a complementary emote.
+# 1.8.3
++ Added full (or close to it?) controller support. Work best with the InputUtils mod, and the controls will be easily configurable.
++ Control tip lines should automatically update if you switch between keyboard/controller.
+# 1.8.2
++ Updated path for patching BetterEmotes.
++ Swapped some emotes out to fix some bouncing issues.
+# 1.8.1
++ Fixed camera not pitching up/down when allowing moving while emoting in the config.
++ Will not attempt to apply MoreCompany Cosmetics patch when AdvancedCompany is loaded.
++ Temporarily removed open emote menu keybind in HUD.
++ MaskedEnemies now shouldn't emote unless within a certain distance.
++ Updated README/Manifest description.
 # 1.8.0
 + There are now over 200 emotes!
 + Added a config setting to allow moving while emoting. This will sync with all clients. Rotating while emoting by holding a hotkey will be disabled when this is enabled.

@@ -4,20 +4,22 @@
 <strong>This mod adds a ton of new emotes to the game, which can be purchased in the store.</strong><br>
 If you hate progression and just want to dance, you set all emotes to be unlocked in the config. All clients will sync to the server's settings.<br><br>
 With this mod, you will be able to break dance over your teammates' corpses!<br>
-Currently, there are There are currently over 100 emotes, and (likely) more on the way!<br>
+Currently, there are There are currently over 200 emotes, and (likely) more on the way!<br>
 These include common emotes, such as waving, taunting, crying, etc.<br>
 Various dances are also included! You can see a preview of them in the gif down below!
 <br>
 
 ### Now supports InputUtils
+
 - Any relevant hotkeys for this mod can be managed in the in-game keybind menu.
 - InputUtils is not a dependency, but is recommended!
 <br>
 
-## Over 100 Emotes!
+## Over 200 Emotes!
 
 - Though there are a lot of emotes, existing emotes will be continued to be polished in future updates when needed.<br>
 - Emotes can be purchased in the terminal shop by typing "Emotes". You can read more about it below.
+- (This count may actually be just under 200 as I had to remove some emotes to fix some animations at the time of typing this message)
 <br>
 ### Here's a preview of some emotes!
 

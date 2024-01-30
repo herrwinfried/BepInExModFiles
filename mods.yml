@@ -109,9 +109,9 @@
   authorName: FlipMods
   websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/
   displayName: TooManyEmotes
-  description: Adds over 100 new emotes! Emote wheel included! Also implements a
-    system for purchasing them on the store, masked enemies can emote, and much
-    more!
+  description: Adds over 200 new emotes! Emote wheel included! Allows Masked
+    Enemies to emote, Implements a system for purchasing them on the store
+    (optional), and much more! Has VR and Controller support!
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -124,9 +124,9 @@
   versionNumber:
     major: 1
     minor: 8
-    patch: 0
+    patch: 5
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\FlipMods-TooManyEmotes\1.8.5\icon.png
 - manifestVersion: 1
   name: RugbugRedfern-Skinwalkers
   authorName: RugbugRedfern
@@ -169,49 +169,6 @@
     patch: 0
   enabled: true
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Mont-LetMeJoin\icon.png
-- manifestVersion: 1
-  name: Ozone-Runtime_Netcode_Patcher
-  authorName: Ozone
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/
-  displayName: Runtime_Netcode_Patcher
-  description: Patches Netcode RPC methods during runtime utilizing Harmony
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 2
-    patch: 5
-  enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Ozone-Runtime_Netcode_Patcher\icon.png
-- manifestVersion: 1
-  name: Sligili-More_Emotes
-  authorName: Sligili
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
-  displayName: More_Emotes
-  description: "[v49/v45] Adds even more emotes"
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Ozone-Runtime_Netcode_Patcher-0.2.5
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 3
-    patch: 3
-  enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Sligili-More_Emotes\icon.png
 - manifestVersion: 1
   name: ChooMcoo-MoreAdditionalSuits
   authorName: ChooMcoo
@@ -362,7 +319,7 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 13
+    minor: 14
     patch: 2
   enabled: true
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Evaisa-LethalLib\icon.png
@@ -458,53 +415,6 @@
   enabled: true
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\IAmBatby-LethalLevelLoader\icon.png
 - manifestVersion: 1
-  name: scoopy-Scoopys_Variety_Mod
-  authorName: scoopy
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/
-  displayName: Scoopys_Variety_Mod
-  description: Adds a new dungeon-themed interior, and some scrap items. This mod
-    aims to add some variety to the base game of lethal company through new
-    content.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.11.0
-    - IAmBatby-LethalLevelLoader-1.0.6
-    - Evaisa-HookGenPatcher-0.0.5
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 6
-    patch: 5
-  enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\scoopy-Scoopys_Variety_Mod\icon.png
-- manifestVersion: 1
-  name: fr3d-QuotaSettings
-  authorName: fr3d
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/fr3d/QuotaSettings/
-  displayName: QuotaSettings
-  description: Set a few variables relating to the quota.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 5
-  enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\fr3d-QuotaSettings\icon.png
-- manifestVersion: 1
   name: Drakorle-MoreItems
   authorName: Drakorle
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/
@@ -546,8 +456,8 @@
     major: 3
     minor: 5
     patch: 1
-  enabled: false
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\Nips-Brutal_Company_Plus\3.5.1\icon.png
+  enabled: true
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Nips-Brutal_Company_Plus\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger
@@ -571,29 +481,6 @@
   enabled: true
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
 - manifestVersion: 1
-  name: Yoshify-DiscJockey
-  authorName: Yoshify
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Yoshify/DiscJockey/
-  displayName: DiscJockey
-  description: An all-in-one custom Boombox solution - featuring song downloading,
-    custom song loading, realtime audio streams and a fully networked media
-    player UI
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 1
-  enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\Yoshify-DiscJockey\icon.png
-- manifestVersion: 1
   name: CapyCat-Solos_Bodycams
   authorName: CapyCat
   websiteUrl: https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/
@@ -614,4 +501,4 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\CapyCat-Solos_Bodycams\1.0.5\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\CapyCat-Solos_Bodycams\icon.png
