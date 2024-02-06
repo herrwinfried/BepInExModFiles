@@ -1,3 +1,9 @@
+# 1.8.6
++ Tweaked terminal commands to be more accurate and smart when determining if someone is attempting to purchase an emote.
++ Added extra check when performing an emote just in case another mod changed the layer or visibility of the player's main body.
++ Added an optional keybind (only bindable with InputUtils) to force refresh the player's character model and layers. Unbound by default.
++ Fixed issue with keybind display names in hud not updating when setting a new keybind mid-game.
++ Fixed warnings when InputUtils is not enabled.
 # 1.8.5
 + Reverted one patch from 1.8.4 to fix character rig issue.
 # 1.8.4

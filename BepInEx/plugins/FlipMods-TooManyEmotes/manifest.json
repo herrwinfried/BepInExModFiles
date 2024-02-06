@@ -1,6 +1,6 @@
 {
     "name": "TooManyEmotes",
-    "version_number": "1.8.5",
+    "version_number": "1.8.6",
     "website_url": "https://github.com/cmooref17/Lethal-Company-TooManyEmotes",
     "description": "Adds over 200 new emotes! Emote wheel included! Allows Masked Enemies to emote, Implements a system for purchasing them on the store (optional), and much more! Has VR and Controller support!",
     "dependencies": [

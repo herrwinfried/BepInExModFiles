@@ -124,9 +124,9 @@
   versionNumber:
     major: 1
     minor: 8
-    patch: 5
+    patch: 6
   enabled: true
-  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\FlipMods-TooManyEmotes\1.8.5\icon.png
+  icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\cache\FlipMods-TooManyEmotes\1.8.6\icon.png
 - manifestVersion: 1
   name: RugbugRedfern-Skinwalkers
   authorName: RugbugRedfern
@@ -477,7 +477,7 @@
   versionNumber:
     major: 3
     minor: 1
-    patch: 1
+    patch: 2
   enabled: true
   icon: D:\Games\ModManager\r2modPlus-local\LethalCompany\profiles\LethalCompany_2024\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
 - manifestVersion: 1
